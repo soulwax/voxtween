@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxtween logo"/>
+</p>
+
 # voxtween
 
 A high-performance, fluent, allocation-conscious tweening and animation sequence framework for Dart.
